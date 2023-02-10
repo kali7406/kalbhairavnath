@@ -1,0 +1,12 @@
+# here is the defiantioain of svg file formate
+
+svg stands for scalable vector graphics.it is a xml-based file format for representing 2d graphics and graphical applications,such as images,illustrations,and diagarms,in a resoulution-independent format. unlike traditional bitmap images,which use pixels to represents graphics,svg uses mathematical algorithms to define graphics,allowing images to be scaled up or down without losing quality.this makes svg as ideal format for web graphics,as it provide clear and crisp graphics even on high-resolution displays.
+
+Additionaly,since svg is based on xml,the graphics can searched,indexed,scripted,and compressed,making it a verstile and flexible format for creating and distributing graphical content on the web
+
+
+
+what is flex box: 
+ans: The flex box layout also known as flexible box module,is a layout mode in css that provides a way to arrange elements within a conatiner. The main goal of flexbox is to provide a more efficient way to layout ,align and distribute space among items within a conatiner,even when their size is unknown and/or dynamic.
+
+with a flexbox,you can layout elements along a single axis(either horizontally or vertically),control the alignment and distributioinn of space among items,and control the size of elements,all with just a few line of css. This makes flexbox particularly  wall suited for building responsive,flexbox and dynamic user interfaces.
